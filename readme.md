@@ -1,6 +1,6 @@
 ## Rapport TP : Classification, Préprocessing et Augmentation de Données
 Introduction
-Ce projet met en place un pipeline complet de classification d'images, incluant le chargement et le prétraitement des données, l'entraînement de modèles supervisés (arbre de décision et SVM), ainsi que des techniques de clustering non-supervisé et de détection d'anomalies. Nous utilisons également des datasets comme CIFAR-10 pour comparer nos modèles aux standards scientifiques.
+Ce projet met en place un pipeline complet de classification d'images, incluant le chargement et le prétraitement des données, l'entraînement de modèles supervisés (arbre de décision et SVM), ainsi que des techniques de clustering non-supervisé et de détection d'anomalies.
 
 ### Utilisation du fichier main.py
 1. Le fichier main.py permet d'exécuter différents scripts du projet à travers un menu interactif. Il vous suffit de lancer le fichier main.py pour accéder aux différentes questions du TP.
